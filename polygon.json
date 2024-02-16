@@ -1,0 +1,130 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.",
+    "tags": [
+        "pos",
+        "sidechain",
+        "ethereum layer 2",
+        "scaling solution"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "10,000,000,000"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Bridge to Ethereum",
+            "type": "Yes"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "documentation": "https://docs.matic.network/",
+        "github": "https://github.com/maticnetwork"
+    },
+    "social_platforms": {
+        "discord": "https://discord.gg/6y2vSVHP",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://reddit.com/r/maticnetwork"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Polygonscan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Polygon Explorer",
+            "url": "https://explorer-mainnet.maticvigil.com/"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "Trust Wallet",
+            "url": "https://trustwallet.com/"
+        },
+        {
+            "name": "MyEtherWallet",
+            "url": "https://www.myetherwallet.com/"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Matic Bridge",
+            "url": "https://wallet.matic.network/bridge/"
+        },
+        {
+            "name": "Hop Protocol",
+            "url": "https://hop.exchange/"
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "https://polygon.technology/bug-bounty/"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Polygon Grants Program",
+            "url": "https://polygon.technology/grants/"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Polygon Faucet",
+            "url": "https://faucet.matic.network/"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Matic Mainnet",
+            "url": "https://rpc-mainnet.matic.network"
+        },
+        {
+            "name": "Mumbai Testnet",
+            "url": "https://rpc-mumbai.matic.today"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "url": "https://chain.link/"
+        },
+        {
+            "name": "Band Protocol",
+            "url": "https://bandprotocol.com/"
+        }
+    ]
+}
